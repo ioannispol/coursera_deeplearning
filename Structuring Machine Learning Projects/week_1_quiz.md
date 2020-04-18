@@ -26,3 +26,6 @@ The City Council tells you that they want an algorithm that
  3. Can fit in a small amount of memory, so that it can run in a small processor that the city will attach to many different security cameras.
 
 Note: Having three evaluation metrics makes it harder for you to quickly choose between two different algorithms, and will slow down the speed with which your team can iterate. True/False?
+
+[x] True
+[ ] False
