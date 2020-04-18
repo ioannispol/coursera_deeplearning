@@ -29,3 +29,11 @@ Note: Having three evaluation metrics makes it harder for you to quickly choose 
 
 - [x] True
 - [ ] False
+
+After further discussions, the city narrows down its criteria to:
+
+   * "We need an algorithm that can let us know a bird is flying over Peacetopia as accurately as possible."
+   * "We want the trained model to take no more than 10sec to classify a new image.”
+   * “We want the model to fit in 10MB of memory.” 
+
+If you had the three following models, which one would you choose?
